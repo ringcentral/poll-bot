@@ -13,7 +13,7 @@ Login to RingCentral app, add Poll bot to team.
 
 ## Create polls from bot command
 
-[command.md](command.md)
+[Create polls from bot command](command.md)
 
 ## Screenshots
 
