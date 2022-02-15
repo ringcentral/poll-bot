@@ -1,11 +1,11 @@
 
-# Poll Bot for RingCentral App [WIP]
+# Poll Bot for RingCentral App
 
 A Poll bot using adaptive card and interactive messages of RingCentral app, created with [https://github.com/ringcentral/ringcentral-add-in-framework-js](https://github.com/ringcentral/ringcentral-add-in-framework-js)
 
 ## Use
 
-Login to RingCentral app, add Poll bot to team.
+Login to RingCentral app, install Poll bot from add-in list, add poll bot to team.
 
 ## Videos
 
