@@ -11,7 +11,7 @@ Login to RingCentral app, install Poll bot from add-in list, add poll bot to tea
 
 ## Videos
 
-- Poll bot preview video: https://youtu.be/kGPw8c4Bkd4
+- Poll bot preview video: https://youtu.be/3lYzDF62jjk
 
 ## Create polls from bot command
 
